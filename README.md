@@ -4,7 +4,7 @@ Simulated house data (square footage, number of bedrooms, number of bathrooms, a
 
 scikit-learn's linear regression model to predict the house prices based on the features.
 
-The model is evaluated using Mean Squared Error (MSE), trained using a linear regression algorithm
+The model is evaluated using Mean Squared Error (MSE), trained using a linear regression algorithm.
 
 After training, the model can predict house prices for new data.
 
