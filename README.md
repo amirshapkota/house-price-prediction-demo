@@ -6,7 +6,7 @@ Scikit-learn's linear regression model to predict the house prices based on the 
 
 The model is evaluated using Mean Squared Error (MSE), trained using a linear regression algorithm.
 
-After training, the model can predict house prices for new data.
+After training, the model can predict the house prices for new data.
 
 Actual vs predicted house prices is plotted to see the performance.
 
