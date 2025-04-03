@@ -1,6 +1,6 @@
 # House Price Prediction
 
-Simulated house data (square footage, number of bedrooms, number of bathrooms, and a location factor) and calculate the price with some added randomness to make it more real.
+Simulated house data for price prediction (square footage, number of bedrooms, number of bathrooms, and a location factor) and calculate the price with some added randomness to make it more real.
 
 Scikit-learn's linear regression model to predict the house prices based on the features.
 
