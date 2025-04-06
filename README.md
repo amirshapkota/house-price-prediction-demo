@@ -1,4 +1,4 @@
-# House Price Prediction
+# House Price Prediction Demo
 
 Simulated house data for price prediction (square footage, number of bedrooms, number of bathrooms, and a location factor) and calculate the price with some added randomness to make it more real.
 
